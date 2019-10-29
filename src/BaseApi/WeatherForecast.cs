@@ -1,6 +1,6 @@
 using System;
 
-namespace src
+namespace BaseApi
 {
     public class WeatherForecast
     {
